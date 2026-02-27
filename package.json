@@ -1,5 +1,13 @@
 {
   "name": "megic-desk-mobile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panb-KG/megic-desk-mobile.git"
+  },
+  "homepage": "https://github.com/Panb-KG/megic-desk-mobile#readme",
+  "bugs": {
+    "url": "https://github.com/Panb-KG/megic-desk-mobile/issues"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
