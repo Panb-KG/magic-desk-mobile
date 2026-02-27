@@ -1,0 +1,8 @@
+{
+  "name": "Magic Desk: Wizard Academy",
+  "description": "An immersive AI-powered learning platform for young wizards, featuring interactive tutoring, spell-based assignments, and magical progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
